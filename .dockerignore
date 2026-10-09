@@ -1,0 +1,16 @@
+.git
+.gitignore
+.github
+.idea
+__pycache__/
+*.pyc
+.env
+.env.*
+backup/
+*.tar.gz
+*.md
+compose.yaml
+compose.override.yaml
+Dockerfile
+.dockerignore
+nginx/
